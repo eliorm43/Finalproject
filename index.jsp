@@ -22,4 +22,4 @@
    <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
 </body>
 </html>
-random things!
+random things! again!
