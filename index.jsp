@@ -22,6 +22,4 @@
    <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
 </body>
 </html>
-random things! again!
-testing before showing project
-retry1
+should work now
